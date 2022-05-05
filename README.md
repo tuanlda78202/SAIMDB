@@ -1,17 +1,5 @@
-# Machine Learning Project 
-Text classification with 20newsgroups Dataset. I think i will implement scratch/libs some algorithms ML & DL to clustering & classification.
-* TF-IDF & Word Embedding to Processing Text Data.
-* K-Means to Clustering.
-* Logistics, Softmax, SVM to Classifying with Scikit-Learn.
-* MLPs with Keras.
-* RNN, LSTM & Transformer with Keras.
-
-
-# Topic 8: Handling Missing Data
-## Materials
-`papers`: Some papers about missing data for researching, you can search more on [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=missing+data&btnG=&oq=miss), [Connected Paper](https://www.connectedpapers.com/main/f867e56d3a8ac2bbef6bfe5c74ee80ab43239718/Missing-data%3A-our-view-of-the-state-of-the-art./graph) & [Papers With Code](https://paperswithcode.com/search?q_meta=&q_type=&q=missing+data)
-![](/Users/charles/Desktop/dsai/ml/MLP/materials/img/mindmap1.png)
-
+# Sentiment Analysis  
+![Screenshot](/Users/charles/Desktop/dsai/ml/MLP/materials/img/mindmap1.png)
 ## Collaborators 
 | Name                         | Student ID       | Email                                      |
 | :---                         |    :----:        |          :---:                             |
