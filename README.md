@@ -1,5 +1,5 @@
 # Sentiment Analysis  
-![Screenshot](/Users/charles/Desktop/dsai/ml/MLP/materials/img/mindmap1.png)
+![Screenshot](https://github.com/tuanlda78202/MLP/blob/main/materials/img/mindmap1.png)
 ## Collaborators 
 | Name                         | Student ID       | Email                                      |
 | :---                         |    :----:        |          :---:                             |
