@@ -1,5 +1,6 @@
 # Sentiment Analysis  
 ![Screenshot](https://github.com/tuanlda78202/MLP/blob/main/materials/img/mindmap1.png)
+You can research more and more with materials in [Machine Learning Research](https://github.com/tuanlda78202/MLR)
 ## Collaborators 
 | Name                         | Student ID       | Email                                      |
 | :---                         |    :----:        |          :---:                             |
