@@ -1,4 +1,4 @@
-# SAIMDB  
+# SAIMDB - Sentiment Analysis with IMDb Dataset
 ![Screenshot](https://github.com/tuanlda78202/MLP/blob/main/materials/img/mindmap1.png)
 
 
