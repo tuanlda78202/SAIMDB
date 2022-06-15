@@ -79,6 +79,9 @@ def train_test_vectorizer(train, test):
         
     return train_tf, test_tf
 
+def get_vectorizer():
+    return vec
+
 
 def vectorize_new(sentence):
     '''
@@ -91,7 +94,7 @@ def vectorize_new(sentence):
     review_bi = vec[0].transform(review)
     review_tf = vec[1].transform(review_bi)
 
-    return vec, review_tf
+    return review_tf
 
     
 def file_read_vectorizer(train_dataset, test_dataset):
