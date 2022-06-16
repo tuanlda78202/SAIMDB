@@ -1,7 +1,7 @@
 # DBLSTM - Deep Bi-directional LSTM 
 | ![Architecture](https://github.com/tuanlda78202/SAIMDB/blob/main/materials/img/dblstm.png) | 
 |:--:| 
-
+| Bidirectional (left) and Deep Bidirectional (right)|
 
 Bidirectional RNNs is based on the idea that the output at each time may not only depend on the previous elements in the sequence, but also depend on the next elements in the sequence. For instance, to predict a missing word in a sequence, we may need to look at both the left and the right context. 
 
