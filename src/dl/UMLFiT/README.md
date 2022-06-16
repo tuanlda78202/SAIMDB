@@ -2,7 +2,7 @@
 
 | ![Architecture](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-05-26_at_5.11.04_PM.png) | 
 |:--:| 
-| Introduced by Howard et al. in [Universal Language Model Fine-tuning for Text Classification](https://paperswithcode.com/paper/universal-language-model-fine-tuning-for-text) |
+| Howard et al. in [Universal Language Model Fine-tuning for Text Classification](https://paperswithcode.com/paper/universal-language-model-fine-tuning-for-text) |
 
 **Universal Language Model Fine-tuning**, or **ULMFiT**, is an architecture and transfer learning method that can be applied to NLP tasks. It involves a 3-layer [AWD-LSTM](https://paperswithcode.com/method/awd-lstm) architecture for its representations. The training consists of three steps: 
 1. General language model pre-training on a Wikipedia-based text
