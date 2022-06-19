@@ -15,6 +15,6 @@ As different layers capture different types of information, they are fine-tuned 
 Fine-tuning the target classifier is achieved in ULMFiT using gradual unfreezing. Rather than fine-tuning all layers at once, which risks catastrophic forgetting, ULMFiT gradually unfreezes the model starting from the last layer (i.e., closest to the output) as this contains the least general knowledge. First the last layer is unfrozen and all unfrozen layers are fine-tuned for one epoch. Then the next group of frozen layers is unfrozen and fine-tuned and repeat, until all layers are fine-tuned until convergence at the last iteration.
 
 ## Pre-trained Weight 
-[@tuanlda78202](https://github.com/tuanlda78202) finetuned model AWD-LSTM pre-trained with Wiki-103M mix IMDb. I used Google Colab Pro with GPU P100, training approximate 22 hours and collected accuracy 94.4%
+[@tuanlda78202](https://github.com/tuanlda78202) finetuned model AWD-LSTM pre-trained with Wiki-103M mix IMDb. I used Google Colab Pro with GPU P100, training approximate 22 hours and collected accuracy 94.4%.
 
-You can load pre-trained model finetuned in [here](https://husteduvn-my.sharepoint.com/:u:/g/personal/tuan_lda204929_sis_hust_edu_vn/EeY-5xv_iT9Jl6DsOwsNsUEB59da4IbHKQb4GrqTlroI7w?e=nFYHLE) for training classifier.
+You can load pre-trained model finetuned in [here](https://husteduvn-my.sharepoint.com/:u:/g/personal/tuan_lda204929_sis_hust_edu_vn/EeY-5xv_iT9Jl6DsOwsNsUEB59da4IbHKQb4GrqTlroI7w?e=nFYHLE) for finetune classifier.
