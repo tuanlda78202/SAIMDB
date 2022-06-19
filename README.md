@@ -1,7 +1,10 @@
 # SAIMDB - Sentiment Analysis with IMDb Dataset
-![Screenshot](https://github.com/tuanlda78202/MLP/blob/main/materials/img/mindmap1.png)
 
+| ![Architecture](https://github.com/tuanlda78202/MLP/blob/main/materials/img/mindmap1.png) | 
+|:--:| 
+| Mindmap SAIMDB Project|
 
+# Abstract
 Humans are naturally dependent of the opinions and experience of others, thus have a high tendency to seek the reviews of products before trying out themselves. However, it would be painful to scour the correct information from a multitude of reviews present on the internet.
 
 
@@ -16,12 +19,14 @@ After text processing phase with Word Vectorisation, we will implement multiple 
 
 You can research more and more with materials in [Machine Learning Research](https://github.com/tuanlda78202/MLR)
 # Directories 
-- `materials`: All things requirement for project 
-  - `materials/img`: Mind map `.xmind` and image `.png`
-  - `materials/papers`: Top tier paper research need for project.
-- `src`: Source code, implement by Scikit-learn & Keras TensorFlow
-  - `src/ml`: Machine Learning Code (TFIDF + SVM)
-  - `src/dl`: Deep Learning Code (Word Embedding, Word2Vec + Bi-Directional LSTM, BERT)
+- [`materials`](https://github.com/tuanlda78202/SAIMDB/tree/main/materials): All things requirement for project 
+  - [`materials/img`](https://github.com/tuanlda78202/SAIMDB/tree/main/materials/img): Mind map `.xmind` and image `.png`
+  - [`materials/papers`](https://github.com/tuanlda78202/SAIMDB/tree/main/materials/papers): Top tier paper research need for project.
+- [`src`](https://github.com/tuanlda78202/SAIMDB/tree/main/src): Source code, implement by Scikit-learn & Keras TensorFlow
+  - [`src/ml`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/ml): Machine Learning Code (TFIDF + SVM)
+  - [`src/dl`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/dl): Deep Learning Code (Word Embedding, Word2Vec + Bi-Directional LSTM, BERT)
+    - [`src/dl/DBLSTM`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/dl/DBLSTM): Deep Bidirectional LSTM 
+    - [`src/dl/UMLFiT`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/dl/UMLFiT):  Universal Language Model Fine-tuning
 ## Collaborators 
 | Name                         | Student ID       | Email                                      |
 | :---                         |    :----:        |          :---:                             |
