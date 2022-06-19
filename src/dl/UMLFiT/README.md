@@ -19,5 +19,5 @@ Fine-tuning the target classifier is achieved in ULMFiT using gradual unfreezing
 
 You can load pre-trained model finetuned in [here](https://husteduvn-my.sharepoint.com/:u:/g/personal/tuan_lda204929_sis_hust_edu_vn/EeY-5xv_iT9Jl6DsOwsNsUEB59da4IbHKQb4GrqTlroI7w?e=nFYHLE) for finetune classifier, following this code:
 ```python
-learn = learn.load_encoder('finetuned')
+learn = learn.load_encoder('finetuned.pth')
 ```
