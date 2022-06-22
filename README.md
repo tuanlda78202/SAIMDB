@@ -23,10 +23,10 @@ You can research more and more with materials in [Machine Learning Research](htt
   - [`materials/img`](https://github.com/tuanlda78202/SAIMDB/tree/main/materials/img): Mind map `.xmind` and image `.png`
   - [`materials/papers`](https://github.com/tuanlda78202/SAIMDB/tree/main/materials/papers): Top tier paper research need for project.
 - [`src`](https://github.com/tuanlda78202/SAIMDB/tree/main/src): Source code, implement by Scikit-learn & Keras TensorFlow
-  - [`src/ml`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/ml): Machine Learning Code (TFIDF + SVM)
-  - [`src/dl`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/dl): Deep Learning Code (Word Embedding, Word2Vec + Bi-Directional LSTM, BERT)
-    - [`src/dl/DBGRU`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/DL%20/DBGRU): Deep Bidirectional Gated Recurrent Unit
-    - [`src/dl/UMLFiT`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/dl/UMLFiT):  Universal Language Model Fine-tuning
+  - [`src/ML`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/ML%20): Machine Learning Code (TFIDF + SVM)
+  - [`src/DL`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/DL%20): Deep Learning Code (Word Embedding, Word2Vec + Bi-Directional LSTM, BERT)
+    - [`src/dl/DBGRU`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/DL%20/DBGRU): Deep Bidirectional Gated Recurrent Unit
+    - [`src/dl/UMLFiT`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/DL%20/UMLFiT):  Universal Language Model Fine-tuning
 ## Collaborators 
 | Name                         | Student ID       | Email                                      |
 | :---                         |    :----:        |          :---:                             |
