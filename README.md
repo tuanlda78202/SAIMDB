@@ -4,7 +4,7 @@
 |:--:| 
 | Mindmap SAIMDB Project|
 
-# Abstract
+# Overview
 Humans are naturally dependent of the opinions and experience of others, thus have a high tendency to seek the reviews of products before trying out themselves. However, it would be painful to scour the correct information from a multitude of reviews present on the internet.
 
 
