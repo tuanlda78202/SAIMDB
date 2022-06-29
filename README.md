@@ -23,10 +23,13 @@ You can research more and more with materials in [Machine Learning Research](htt
   - [`materials/img`](https://github.com/tuanlda78202/SAIMDB/tree/main/materials/img): Mind map `.xmind` and image `.png`
   - [`materials/papers`](https://github.com/tuanlda78202/SAIMDB/tree/main/materials/papers): Top tier paper research need for project.
 - [`src`](https://github.com/tuanlda78202/SAIMDB/tree/main/src): Source code, implement by Scikit-learn & Keras TensorFlow
-  - [`src/ML`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/ML): Machine Learning Code (TFIDF + SVM)
-  - [`src/DL`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/DL%20): Deep Learning Code (Word Embedding, Word2Vec + Bi-Directional LSTM, BERT)
-    - [`src/dl/DBGRU`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/DL%20/DBGRU): Deep Bidirectional Gated Recurrent Unit
-    - [`src/dl/UMLFiT`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/DL%20/UMLFiT):  Universal Language Model Fine-tuning
+  - [`src/supervised`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised): Machine Learning & Deep Learning Algorithms
+    - [`src/supervised/ML`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/ML): Machine Learning Code (TFIDF + SVM)
+    - [`src/supervised/DL`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/DL%20): Deep Learning Code (Word Embedding, Word2Vec + Bi-Directional LSTM, BERT)
+      - [`src/supervised/DL/DBGRU`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/DL%20/DBGRU): Deep Bidirectional Gated Recurrent Unit
+      - [`src/supervised/DL/UMLFiT`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/DL%20/UMLFiT):  Universal Language Model Fine-tuning
+  - [`src/unsupervised`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/unsupervised): Clustering Algorithm
+    - [`src/unsupervised/w2v_gmm`](https://github.com/tuanlda78202/SAIMDB/blob/main/src/unsupervised/w2v_gmm.ipynb): Self-supervised Word2Vec + GMM 
 ## Collaborators 
 | Name                         | Student ID       | Email                                      |
 | :---                         |    :----:        |          :---:                             |
