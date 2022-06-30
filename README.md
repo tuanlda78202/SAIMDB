@@ -29,7 +29,7 @@ You can research more and more with materials in [Machine Learning Research](htt
       - [`src/supervised/DL/DBGRU`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/DL%20/DBGRU): Deep Bidirectional Gated Recurrent Unit
       - [`src/supervised/DL/UMLFiT`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/DL%20/UMLFiT):  Universal Language Model Fine-tuning
   - [`src/unsupervised`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/unsupervised): Clustering Algorithm
-    - [`src/unsupervised/w2v_gmm`](https://github.com/tuanlda78202/SAIMDB/blob/main/src/unsupervised/w2v_gmm.ipynb): Self-supervised Word2Vec + GMM 
+    - [`src/unsupervised/w2v_mbkm`](https://github.com/tuanlda78202/SAIMDB/blob/main/src/unsupervised/w2v_mbkm.ipynb): Self-supervised Pre-trained Word2Vec + Mini-batch KMeans 
 ## Collaborators 
 | Name                         | Student ID       | Email                                      |
 | :---                         |    :----:        |          :---:                             |
