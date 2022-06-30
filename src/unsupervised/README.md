@@ -1,5 +1,10 @@
 # Pretrained Word2Vec x Mini-batch KMeans 
 
+| ![Architecture](https://github.com/tuanlda78202/SAIMDB/blob/main/materials/img/w2v_mbkm.png) | 
+|:--:| 
+| Word2Vec visualization|
+
+
 Word2vec algorithms include skip-gram and CBOW models, using either hierarchical softmax or negative sampling
 - [Tomas Mikolov et al: Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 - [Tomas Mikolov et al: Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)
