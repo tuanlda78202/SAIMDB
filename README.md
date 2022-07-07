@@ -18,18 +18,15 @@ After text processing phase with Word Vectorisation, we will implement multiple 
 
 
 You can research more and more with materials in [Machine Learning Research](https://github.com/tuanlda78202/MLR)
+
 # Directories 
 - [`materials`](https://github.com/tuanlda78202/SAIMDB/tree/main/materials): All things requirement for project 
-  - [`materials/img`](https://github.com/tuanlda78202/SAIMDB/tree/main/materials/img): Mind map `.xmind` and image `.png`
-  - [`materials/papers`](https://github.com/tuanlda78202/SAIMDB/tree/main/materials/papers): Top tier paper research need for project.
 - [`src`](https://github.com/tuanlda78202/SAIMDB/tree/main/src): Source code, implement by Scikit-learn & Keras TensorFlow
   - [`src/supervised`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised): Machine Learning & Deep Learning Algorithms
-    - [`src/supervised/ML`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/ML): Machine Learning Code (TFIDF + SVM)
-    - [`src/supervised/DL`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/DL%20): Deep Learning Code (Word Embedding, Word2Vec + Bi-Directional LSTM, BERT)
-      - [`src/supervised/DL/DBGRU`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/DL%20/DBGRU): Deep Bidirectional Gated Recurrent Unit
-      - [`src/supervised/DL/UMLFiT`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised/DL%20/UMLFiT):  Universal Language Model Fine-tuning
-  - [`src/unsupervised`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/unsupervised): Clustering Algorithm
-    - [`src/unsupervised/w2v_mbkm`](https://github.com/tuanlda78202/SAIMDB/blob/main/src/unsupervised/w2v_mbkm.ipynb): Self-supervised Pre-trained Word2Vec + Mini-batch KMeans 
+  - [`src/unsupervised`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/unsupervised): Clustering Algorithm + Self-supervised Pre-trained Word2Vec + Mini-batch KMeans
+- `report`: Report LaTeX + Slide presentation
+  
+  
 ## Collaborators 
 | Name                         | Student ID       | Email                                      |
 | :---                         |    :----:        |          :---:                             |
@@ -38,7 +35,3 @@ You can research more and more with materials in [Machine Learning Research](htt
 | Hoang Long Vu             | 20204897         | vu.hl204897@sis.hust.edu.vn|
 | Nguyen Huu Tuan Duy      | 20204907         | duy.nht204907@sis.hust.edu.vn              |
 | Hoang Gia Nguyen          | 20204889         | nguyen.hg204889@sis.hust.edu.vn             |
-
-## Announcements
-All older announcements can be found in `ANNOUNCEMENTS.md`
-
