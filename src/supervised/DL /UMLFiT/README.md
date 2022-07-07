@@ -1,4 +1,6 @@
 # UMLFiT - Universal Language Model Fine-tuning
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/universal-language-model-fine-tuning-for-text/sentiment-analysis-on-imdb)](https://paperswithcode.com/sota/sentiment-analysis-on-imdb?p=universal-language-model-fine-tuning-for-text)
+
 
 | ![Architecture](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-05-26_at_5.11.04_PM.png) | 
 |:--:| 
