@@ -1,8 +1,8 @@
 # Pretrained Word2Vec x Mini-batch KMeans 
 
-| ![Architecture](https://github.com/tuanlda78202/SAIMDB/blob/main/materials/img/w2v_mbkm.png) | 
+| ![Architecture](https://github.com/tuanlda78202/SAIMDB/blob/main/materials/img/w2v_mbkm%20copy.png) | 
 |:--:| 
-| Word2Vec visualization|
+| Word2Vec x Mini-batch K-means|
 
 
 Word2vec algorithms include skip-gram and CBOW models, using either hierarchical softmax or negative sampling
@@ -18,3 +18,6 @@ Word2vec algorithms include skip-gram and CBOW models, using either hierarchical
 
 
 3. **Applying a clustering algorithm on the document vectors**: this requires selecting and applying a clustering algorithm to find the best possible groups using the document vectors. Some frequently used algorithms include K-means, DBSCAN or Hierarchical Clustering.
+
+## Evaluation 
+![evaluation](https://github.com/tuanlda78202/SAIMDB/blob/main/materials/img/evaluationClustering.png)
