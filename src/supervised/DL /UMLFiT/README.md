@@ -2,7 +2,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/universal-language-model-fine-tuning-for-text/sentiment-analysis-on-imdb)](https://paperswithcode.com/sota/sentiment-analysis-on-imdb?p=universal-language-model-fine-tuning-for-text)
 
 
-| ![Architecture](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-05-26_at_5.11.04_PM.png) | 
+| ![Architecture](https://github.com/tuanlda78202/SAIMDB/blob/main/materials/img/ulmfit.png) | 
 |:--:| 
 | Howard et al. in [Universal Language Model Fine-tuning for Text Classification](https://paperswithcode.com/paper/universal-language-model-fine-tuning-for-text) |
 
@@ -15,6 +15,12 @@
 As different layers capture different types of information, they are fine-tuned to different extents using [discriminative fine-tuning](https://paperswithcode.com/method/discriminative-fine-tuning). Training is performed using [Slanted triangular learning rates](https://paperswithcode.com/method/slanted-triangular-learning-rates) (STLR), a learning rate scheduling strategy that first linearly increases the learning rate and then linearly decays it.
 
 Fine-tuning the target classifier is achieved in ULMFiT using gradual unfreezing. Rather than fine-tuning all layers at once, which risks catastrophic forgetting, ULMFiT gradually unfreezes the model starting from the last layer (i.e., closest to the output) as this contains the least general knowledge. First the last layer is unfrozen and all unfrozen layers are fine-tuned for one epoch. Then the next group of frozen layers is unfrozen and fine-tuned and repeat, until all layers are fine-tuned until convergence at the last iteration.
+
+## Transfer Learning 
+![Transfer Learning](https://github.com/tuanlda78202/SAIMDB/blob/main/materials/img/transfer_learning.png) 
+
+## AWD-LSTM
+![AWD-LSTM](https://github.com/tuanlda78202/SAIMDB/blob/main/materials/img/awdlstm.png)
 
 ## Pre-trained Weight 
 [@tuanlda78202](https://github.com/tuanlda78202) finetuned model AWD-LSTM pre-trained with WikiText-103M mix IMDb, used Colab Pro with GPU P100, training approximate 22 hours and collected accuracy 94.5%.
