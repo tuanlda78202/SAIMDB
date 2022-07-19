@@ -24,7 +24,7 @@ You can research more and more with materials in [Machine Learning Research](htt
 - [`src`](https://github.com/tuanlda78202/SAIMDB/tree/main/src): Source code, implement by Scikit-learn & Keras TensorFlow
   - [`src/supervised`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/supervised): Machine Learning & Deep Learning Algorithms
   - [`src/unsupervised`](https://github.com/tuanlda78202/SAIMDB/tree/main/src/unsupervised): Clustering Algorithm + Self-supervised Pre-trained Word2Vec + Mini-batch KMeans
-- `report`: Report LaTeX + Slide presentation
+- [`report`](https://github.com/tuanlda78202/SAIMDB/tree/main/report): Report LaTeX + Slide presentation
   
   
 ## Collaborators 
